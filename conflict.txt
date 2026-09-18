@@ -1,1 +1,3 @@
+A version
 B version
+resolved
